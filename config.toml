@@ -1,0 +1,34 @@
+baseurl = "https://laurent35240.github.io"
+title = "Laurent Clouet"
+theme = "dimension"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+disableKinds=["RSS"]
+
+[params]
+  description = '<!--[-->Head of Production at <a href="https://cyclad.io" target="_blank">Cyclad Digital Factory</a><!--]--><br />
+                <!--[-->10+ years of web backend development - Proud to be geek<!--]-->'
+  logo = "fa-code"
+  copyright = "Laurent Clouet"
+
+[[params.social]]
+  medium = "twitter"
+  icon = "twitter"
+  link = "https://twitter.com/laurent35240"
+
+[[params.social]]
+  medium = "linkedin"
+  icon = "linkedin"
+  link = "https://www.linkedin.com/in/laurent-clouet-a7ba8721/"
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "https://github.com/laurent35240"
+
+[languages]
+[languages.en]
+languageName = "English"
+weight = 1
+
