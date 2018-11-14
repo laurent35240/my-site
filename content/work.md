@@ -4,7 +4,7 @@ weight = 30
 draft = false
 +++
 
-{{< figure class="image main" src="/images/daniel-cheung-129841-unsplash.jpg" >}}
+{{< figure-webp class="image main" src="/images/daniel-cheung-129841-unsplash" >}}
 
 Here is some of the work I have made:
 <ul>
