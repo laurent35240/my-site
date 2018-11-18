@@ -2,8 +2,8 @@
     {{- if .Get "link" -}}
         <a href="{{ .Get "link" }}"{{ with .Get "target" }} target="{{ . }}"{{ end }}{{ with .Get "rel" }} rel="{{ . }}"{{ end }}>
     {{- end }}
-    <source type="image/webp" srcset="{{ .Get "src" }}.webp">
-    <source type="image/jpeg" srcset="{{ .Get "src" }}.jpg">
+    <source type="image/webp" srcset="{{ .Get "src" }}.webp"/>
+    <source type="image/jpeg" srcset="{{ .Get "src" }}.jpg"/>
     <img src="{{ .Get "src" }}.jpg"
          {{- if or (.Get "alt") (.Get "caption") }}
          alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" | markdownify| plainify }}{{ end }}"

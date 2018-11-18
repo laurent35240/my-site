@@ -7,8 +7,9 @@ enableRobotsTXT = true
 disableKinds=["RSS"]
 
 [params]
-  description = '<!--[-->Head of Production at <a href="https://cyclad.io" target="_blank">Cyclad Digital Factory</a><!--]--><br />
-                <!--[-->10+ years of web backend development - Proud to be geek<!--]-->'
+  description = """
+                Head of Production at <a href=\"https://cyclad.io\" target=\"_blank\">Cyclad Digital Factory</a><br/>
+                10+ years of web backend development - Proud to be geek"""
   logo = "fa-code"
   copyright = "Laurent Clouet"
 
@@ -31,4 +32,12 @@ disableKinds=["RSS"]
 [languages.en]
 languageName = "English"
 weight = 1
+
+[languages.fr]
+languageName = "Français"
+weight = 2
+title = "Laurent Clouet"
+description = """
+Directeur de production chez <a href=\"https://cyclad.io\" target=\"_blank\">Cyclad Digital Factory</a><br/>
+10+ années d'expériences dans le dévelopement web - Fièr d'être geek"""
 
