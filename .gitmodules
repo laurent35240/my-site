@@ -1,6 +1,3 @@
-[submodule "themes/dimension"]
-	path = themes/dimension
-	url = https://github.com/sethmacleod/dimension.git
 [submodule "public"]
 	path = public
 	url = git@github.com:laurent35240/laurent35240.github.io.git
