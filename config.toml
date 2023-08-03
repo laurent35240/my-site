@@ -8,8 +8,10 @@ disableKinds=["RSS"]
 
 [params]
   description = """
-                Engineering Manager at <a href=\"https://www.westwing.de" target=\"_blank\">Westwing</a><br/>
-                10+ years of web backend development - Proud to be geek"""
+                Director of Engineering at <a href=\"https://www.westwing.de" target=\"_blank\">Westwing</a><br/>
+                Experienced leader of engineering teams<br/>
+                extensive expertise in web and cloud software development<br/>
+                Proud to be geek"""
   logo = "fa-code"
   copyright = "Laurent Clouet"
 
@@ -38,8 +40,10 @@ languageName = "Français"
 weight = 2
 title = "Laurent Clouet"
 description = """
-Engineering Manager chez <a href=\"https://www.westwing.de\" target=\"_blank\">Westwing</a><br/>
-10+ années d'expériences dans le dévelopement web - Fièr d'être geek"""
+Director of Engineering chez <a href=\"https://www.westwing.de\" target=\"_blank\">Westwing</a><br/>
+Leader Senior d'équipes d'ingénieurs<br/>
+Vaste expertise dans le développement de logiciels Web et Cloud<br/>
+Fièr d'être geek"""
 
 [markup]
   [markup.goldmark]

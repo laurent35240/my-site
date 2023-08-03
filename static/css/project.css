@@ -1,3 +1,11 @@
 #bg:after {
     background-position: center bottom;
 }
+
+a {
+    text-decoration: underline;
+}
+
+#header nav ul li a {
+    text-decoration: none;
+}
