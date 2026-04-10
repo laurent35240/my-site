@@ -11,7 +11,7 @@ Mes spécialités sont le développement PHP, eCommerce et IoT.
 
 Tu peux aussi consulter mon [Manager README](https://managerreadme.com/readme/laurent35240/i0rvpm) pour en savoir plus sur mon style de management.
 
-Je vis actuellement à Toulouse et travaille en tant que Director of Engineering pour [Westwing](https://www.westwing.fr/).
+Je vis actuellement à Toulouse et travaille en tant que Team Lead Backend chez [Qonto](https://qonto.com/).
 
 Je suis un geek qui aime toujours jouer aux vieux jeux vidéos NES avec mes enfants.
         

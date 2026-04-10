@@ -8,7 +8,7 @@ disableKinds=["RSS"]
 
 [params]
   description = """
-                Director of Engineering at <a href=\"https://www.westwing.de" target=\"_blank\">Westwing</a><br/>
+                backend Team Lead at <a href=\"https://qonto.com/\" target=\"_blank\">Qonto</a><br/>
                 Experienced leader of engineering teams<br/>
                 extensive expertise in web and cloud software development<br/>
                 Proud to be geek"""
@@ -40,7 +40,7 @@ languageName = "Français"
 weight = 2
 title = "Laurent Clouet"
 description = """
-Director of Engineering chez <a href=\"https://www.westwing.de\" target=\"_blank\">Westwing</a><br/>
+Team Lead Backend chez <a href=\"https://qonto.com/\" target=\"_blank\">Qonto</a><br/>
 Leader Senior d'équipes d'ingénieurs<br/>
 Vaste expertise dans le développement de logiciels Web et Cloud<br/>
 Fièr d'être geek"""
